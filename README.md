@@ -8,6 +8,13 @@ We have used LSTM for the prediction of the stock prize.
 
 ## Building the project locally
 You can use jupyter notebook, or kaggle or google Collab.
+`pip install jupyter notebook` can be used for installing jupyetr notebook
+Note: Python must be installed for the command to work
+Other libraries if need:
+1. `pip install numpy`
+2. `pip install pandas`
+3. `pip install sklearn`
+4. `pip install matplotlib`
 
 ## Maintainers
 Arnav Kumar: https://github.com/ArnavKumar7 
