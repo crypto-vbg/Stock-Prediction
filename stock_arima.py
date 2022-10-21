@@ -1,7 +1,5 @@
 import numpy as np 
 import pandas as pd 
-import matplotlib.pyplot as plt
-from pandas.plotting import lag_plot
 from datetime import datetime
 #from statsmodels.tsa.arima_model import ARIMA
 import statsmodels.api as sm
